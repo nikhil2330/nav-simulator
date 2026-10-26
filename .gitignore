@@ -19,3 +19,6 @@ env/
 
 # Logs
 *.log
+
+# Local simulator exports
+mission-report.json
